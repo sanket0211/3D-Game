@@ -1,0 +1,92 @@
+Its a 3d game.
+The timer is on. Try completing the adventure in the minimum time possible. 
+Save yourself from the black demons.
+You get the door only when you collect all the points.
+
+Objectives done are :
+1. 3d platform.
+2. obstacles, disappearing tiles.
+3. 3d player.
+4. 4 camera-views implemented :
+	a. Tower View(default view)
+	b. Helicopter View
+	c. Free View
+	d. Top View
+5. Player Movement
+6. Player jumping.
+
+Controls:
+Camera Views:
+1. Tower View - 'T' (default view)
+2. Helicopter View - 'H'
+3. Top View - 'O'
+4. Free View - 'F'
+
+Free View :
+Player does not move during Free View. Only the Camera Moves. 
+1. Move - The camera keeps moving straight freely.
+2. Look Left - 'Left arrow key'
+3. Look Right - 'Right arrow key'
+4. Zoom in - 'scroll up'
+5. Zoom out - 'scroll down'
+
+Tower View : 
+Camera Movements :
+1. Pan left - 'Move mouse cursor left'
+2. Pan Right - 'Move mouse cursor right'
+3. Pan UP - 'Move mouse cursor up'
+4. Pan down - 'Move mouse cursor down'
+5. zoom in - 'scroll up'
+6. zoom out - 'scroll down'
+Player Movements :
+1. Move up - 'Up arrow key'
+2. Move down - 'down arrow key'
+3. Move left - 'left arrow key'
+4. Moev Rigth - 'right arrow key'
+5. jump - 'Space'
+
+Helicopter View :
+Camera Movements :
+1. Rotate left - 'move mouse cursor left'
+2. Rotate right - 'move mouse cursor right'
+Rotation speed depends upon the distance of the mouse cursor from the center of the screen
+zoom in - 'scroll up'
+zoom out - 'scroll down'
+Player Movements :
+1. Move up - 'Up arrow key'
+2. Move down - 'down arrow key'
+3. Move left - 'left arrow key'
+4. Moev Rigth - 'right arrow key'
+5. jump - 'Space'
+
+Top View :
+Camera Movemets:
+1. The entire screen moves with the mouse cursor. 
+2. Zoom in -'scroll up'
+3. Zoom out - 'scroll down'
+Player Movements :
+1. Move up - 'Up arrow key'
+2. Move down - 'down arrow key'
+3. Move left - 'left arrow key'
+4. Moev Rigth - 'right arrow key'
+5. jump - 'Space'
+
+Follow Up View :
+Camera Movements:
+1. The Camera is right behind the player and is following the player.
+
+Player Movements:
+1. Move forword - 'up arrow key'
+2. Look left - 'left arrow key'
+3. Look Right - 'right arrow key'
+
+Adventure View:
+Camera Movements:
+1. Camera is right in front of the player looks at the things right in front of the player.
+
+Player is not seen in this view
+1. move forward - 'up arrow key'
+2. look left - 'left arrow key'
+3. look right - 'right arrow key'
+
+
